@@ -1,6 +1,6 @@
 # Instacart Grocery Basket Analysis
 
-
+![Model](https://github.com/gillamrit92/Instacart-Grocery-Basket-Analysis/commit/e4959c9189c5247f0d2e73689a56ba154b399209)
 
 ## Project Summary
 
